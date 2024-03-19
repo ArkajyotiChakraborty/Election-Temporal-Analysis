@@ -30,9 +30,13 @@ Rahul Tweet analysis:
 
 
 Epoch 1/5, Average Training Loss: 0.4266421364053436
+
 Epoch 2/5, Average Training Loss: 0.22769834035367484
+
 Epoch 3/5, Average Training Loss: 0.09063933686801294
+
 Epoch 4/5, Average Training Loss: 0.057313298927698424
+
 Epoch 5/5, Average Training Loss: 0.04223914273717698
 
 
